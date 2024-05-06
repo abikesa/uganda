@@ -25,5 +25,5 @@
 ### God/`Protogenoi`
 ##### (Foundation/Stage: 1st, 3rd, 5th, ♭♭7, 9th)
 1. Root: [Qualitative](https://www.youtube.com/watch?v=585IMBb14Kg) transformation of costs of production
-2. Pentatonic: Railway, Electricity, Funding, Manufacturing, Irrigation  
+2. Pentatonic: Railway, Electricity, Funding::`Manufacturing, Irrigation, Subsistence` 
 
