@@ -37,8 +37,19 @@
 1. Root: [Qualitative](https://www.youtube.com/watch?v=585IMBb14Kg) transformation of costs of production
 2. Pentatonic: railway, electricity, manufacturing, irrigation, subsistence 
 
-# Coffee, Cotton
+# Coffee, Cotton, Slavery
 - Global market is a whopping $460B
 - South America and Africa only tap $25B of that market
 - Uganda reigns in $900 million from its high quality coffee
 - Yet Germany earns $65B from coffee without producing any!!
+
+# Government Bonds
+Museveni's statement about leaders overstaying in power being the problem, made when he was a 40-year-old leader just beginning his tenure, now rings with a bitter irony. At 80 years old and still in power, he himself embodies the very issue he once criticized. His observation about the struggle for funding for critical sectors like railway, electricity, and manufacturing, while insightful, seems to overlook the irony of his own prolonged leadership contributing to Uganda's economic challenges.
+
+The struggle for funding, particularly evident in high government bond yields, reflects a broader challenge of market forces dictating Uganda's economic direction. Museveni's earlier vision, now tested by market realities, highlights the complexity of governance and economic management. His understanding of this nuance, especially in relation to how market forces impact sectors beyond the traditional ones he focuses on, is questionable.
+
+It's a stark reminder of the complexities and contradictions of leadership, where vision and reality often collide, leaving a nation grappling with the consequences.
+
+# Banking in Africa
+Commercial banks are sustaining a cancer upon Africa by providing finance to leaders who have overstayed their welcome. But can you blame them when they make record-breaking profit year-after-year?
+
