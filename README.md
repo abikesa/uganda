@@ -16,12 +16,12 @@
 
 ### Man/`Titans`
 ##### (Alterations/Meaning: ♭9,♯9,♯11,♭13) 
-5. Temperament: [Heretical](https://www.gutenberg.org/cache/epub/27458/pg27458-images.html)
-6. Expression: [Aggressive](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-6143.2011.03789.x) 
+5. Temperament: [Heretical](https://www.gutenberg.org/cache/epub/27458/pg27458-images.html):: `term limits`
+6. Expression: [Aggressive](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-6143.2011.03789.x):: `et tu brut`
 ### Art/`Olympians`
 ##### (Extensions/Cast: 11th, 13th)
-3. Diatonic/Mundane: Apollo (11th)
-4. Chromatic: Dionysus (13th)
+3. Diatonic/Mundane: Apollo (11th):: Political Stability affects `benchmark interest rates`
+4. Chromatic: Dionysus (13th):: innovation in the `dark recessess untouched` by the government
 ### God/`Protogenoi`
 ##### (Foundation/Stage: 1st, 3rd, 5th, ♭♭7, 9th)
 1. Root: [Qualitative](https://www.youtube.com/watch?v=585IMBb14Kg) transformation of costs of production
