@@ -1,57 +1,29 @@
+- [Appearance](https://www.youtube.com/watch?v=wPxEYsOUJzc)
+- Aesthetics
+
+> $\text{Years on Waitlist} \sim \ \beta_0 + \beta_1 \text{Patient History} + \beta_2 \text{Living Donation} + \beta_3 \text{Center Aggressiveness} + \beta_4 \text{Geographic Region} + \epsilon_i$
+
+![](https://github.com/abikesa/url/raw/main/titan_olympian_primogenei.png) 
+
+ 
                                         1. Root
                                                \
                               2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
                                                /
                                                3. Diatonic
 
-### Sensations/Physical
-1. Root
-   - Italian
-      - Symptoms of the opulence of Italy & Japan: Sergio Leone & Akira Kurosawa
-      - Who is our poet? He's material for art? Transcendental?
-      - I'm asking on behalf of Uganda as we approach 100 years 
-2. Pentatonic
-   - Aperitivo
-   - Antipasto
-   - Primo
-   - Secondo
-   - Contorno
 
-### Overtones/Transcendental
-3. Diatonic
-   - Dolce
-4. Chromatic
-   - Frutta
-      - Grapes
-      - Olives
-      - Lemons
-      - Figs
-      - Peaches
-      - Cherries
-      - Apples
-      - Pears
-      - Oranges
-      - Apricots
-      - Plums
-      - Strawberries
 
-### Dance/Communal
-5. Temperament
-   - Caffé
-6. Expression
-   - Digestivo
-      - Physical
-         - Basic: InApp, local and remote datasets
-         - Intermediate: GitHub, direct `.html` uploads
-         - Advanced: VSCode, `ghp-import -n -p -f _build/html` 
-      - Communal
-         - Flow philosophy: `GEMROHS`
-         - Weekly assignments: challenge-level 0 to 8
-         - GitHub discussions (in lieu of marketing)
-         - Neural networks of peers
-         - Quick feedback for instructors as well 
-      - Transcendental 
-         - [High and Low](https://en.wikipedia.org/wiki/High_and_Low_(1963_film)): Beyond Good & Evil?
-         - Is our protagonist an Übermensch?
-         - Or a feeling philanthropist?
+### Man/`Titans`
+##### (Alterations/Meaning: ♭9,♯9,♯11,♭13) 
+5. Temperament: [Heretical](https://www.gutenberg.org/cache/epub/27458/pg27458-images.html)
+6. Expression: [Aggressive](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-6143.2011.03789.x) 
+### Art/`Olympians`
+##### (Extensions/Cast: 11th, 13th)
+3. Diatonic/Mundane: Apollo (11th)
+4. Chromatic: Dionysus (13th)
+### God/`Protogenoi`
+##### (Foundation/Stage: 1st, 3rd, 5th, ♭♭7, 9th)
+1. Root: [Qualitative](https://www.youtube.com/watch?v=585IMBb14Kg) transformation of costs of production
+2. Pentatonic: Railway, Electricity, Funding, Manufacturing, Irrigation  
 
