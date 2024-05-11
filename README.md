@@ -1,3 +1,4 @@
+
 > Is Sevo oblivious to the root of Uganda's struggles to secure funding for `railway, electricity, manufacturing, irrigation, abundance`?       
 *My cup runneth over - the proudest thing any man should ever declare*       
 "The problem of Africa in general and Uganda in particular is not the people, but leaders who want to overstay in power”.
@@ -18,9 +19,9 @@
  
                                         1. Root
                                                \
-                              2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
+                                 2. Peasant -> 4. Manufacturer -> 5. Electricity -> 6. Transportation
                                                /
-                                               3. Diatonic
+                                               3. Farmer
 
 
 
