@@ -27,9 +27,6 @@ He who speaks for the bore speaks for Britain
    - Consuming what it doesn't produce
       - Cars 
 
-> $\frac{\partial}{\partial t}\text{Costs} \sim \ \beta_0 + \beta_1 \text{Peasant} + \beta_2 \text{Farmer} + \beta_3 \text{Manufacturer} + \beta_4 \text{Energy} + + \beta_5 \text{Transportation} + \epsilon_i$
-
-
 
  
                                        1. Hunter-gatherer
@@ -42,8 +39,10 @@ He who speaks for the bore speaks for Britain
 
 ### Dionysus 1, 2, 3 `1st, 3rd, 5th, ♭♭7, 9th`
 - Nature's gifts
+  
 ### Sing O Muse 4 `11th, 13th`
 - [Surplus](https://abikesa.github.io/closing-gap/)
+  
 ### Apollo 5, 6 `♭9,♯9,♯11,♭13`
 - Forex
 
