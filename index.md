@@ -32,8 +32,8 @@ He who speaks for the bore speaks for Britain
                                        1. Hunter-gatherer
                                                          \ 
                                           2. Peasant  -> 4. Manufacturer -> 5. Electricity -> 6. Transportation
-                                                        /
-                                                         3. Farmer
+                                                         /
+                                                          3. Farmer
 
 
 
