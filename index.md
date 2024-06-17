@@ -10,8 +10,7 @@
 
 [Britain](https://www.economist.com/britain/2024/05/01/jeremy-clarkson-patron-saint-of-the-great-british-bore) | Bagehot     
 
-
-*The King is bankrupt like a [broke](https://abikesa.github.io/henryv/)n man*
+> *The Kings growne bankrupt like a [broke](https://abikesa.github.io/henryv/)n man*
 
  
                                        1. Hunter-gatherer
