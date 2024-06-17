@@ -3,30 +3,12 @@
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
-    <p>Some text here</p>
-    <p>Inline equation: \( E = mc^2 \)</p>
-    <p>Block equation:</p>
     <div>
         $$\frac{\partial}{\partial t}\text{Costs} \sim \ \beta_0 + \beta_1 \text{Peasant} + \beta_2 \text{Farmer} + \beta_3 \text{Manufacturer} + \beta_4 \text{Energy} + \beta_5 \text{Transportation} + \epsilon_i$$
     </div>
 </body>
 
 [Britain](https://www.economist.com/britain/2024/05/01/jeremy-clarkson-patron-saint-of-the-great-british-bore) | Bagehot     
-Jeremy Clarkson, patron saint of the Great British bore    
-He who speaks for the bore speaks for Britain      
-
-![](https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20240405_BRD000.jpg)
-
-> "The problem of Africa in general and Uganda in particular is not the people, but leaders who want to [overstay in power](https://twitter.com/NnamdiObasi/status/1350469369260859394)”
-
-- [Appearance](https://www.youtube.com/watch?v=wPxEYsOUJzc)
-- Aesthetics
-- Africa
-   - Producing what it doesn't consume
-      - Coffee 
-   - Consuming what it doesn't produce
-      - Cars 
-
 
  
                                        1. Hunter-gatherer
@@ -62,3 +44,19 @@ It's a stark reminder of the complexities and contradictions of leadership, wher
 ##### Banking
 Commercial banks are sustaining a cancer upon Africa by providing finance to leaders who have overstayed their welcome. But can you blame them when they make record-breaking profit year-after-year?
 
+# Bagehot
+
+Jeremy Clarkson, patron saint of the Great British bore    
+He who speaks for the bore speaks for Britain      
+
+![](https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20240405_BRD000.jpg)
+
+> "The problem of Africa in general and Uganda in particular is not the people, but leaders who want to [overstay in power](https://twitter.com/NnamdiObasi/status/1350469369260859394)”
+
+- [Appearance](https://www.youtube.com/watch?v=wPxEYsOUJzc)
+- Aesthetics
+- Africa
+   - Producing what it doesn't consume
+      - Coffee 
+   - Consuming what it doesn't produce
+      - Cars 
