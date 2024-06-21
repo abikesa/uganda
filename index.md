@@ -51,7 +51,7 @@
 ### Sing O Muse [4](https://www.economist.com/business/2024/06/20/are-manufacturing-jobs-really-that-good) `11th, 13th`
 - [Surplus](https://abikesa.github.io/closing-gap/)
   
-### Apollo [5](https://www.economist.com/by-invitation/2024/06/17/ray-kurzweil-on-how-ai-will-transform-the-physical-world#), 6 `♭9,♯9,♯11,♭13`
+### Apollo [5](https://www.economist.com/by-invitation/2024/06/17/ray-kurzweil-on-how-ai-will-transform-the-physical-world#)[,](https://abikesa.github.io/medicine/) 6 `♭9,♯9,♯11,♭13`
 - Forex
 
 ##### Nation
