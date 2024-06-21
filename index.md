@@ -24,7 +24,7 @@
 ### Dionysus 1, 2, 3 `1st, 3rd, 5th, ♭♭7, 9th`
 - Nature's gifts
   
-### Sing O Muse 4 `11th, 13th`
+### Sing O Muse [4](https://www.economist.com/business/2024/06/20/are-manufacturing-jobs-really-that-good) `11th, 13th`
 - [Surplus](https://abikesa.github.io/closing-gap/)
   
 ### Apollo [5](https://www.economist.com/by-invitation/2024/06/17/ray-kurzweil-on-how-ai-will-transform-the-physical-world#), 6 `♭9,♯9,♯11,♭13`
