@@ -54,7 +54,7 @@ He who speaks for the bore speaks for Britain
 
 ![](https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20240405_BRD000.jpg)
 
-> "The problem of Africa in general and Uganda in particular is not the people, but leaders who want to [overstay in power](https://twitter.com/NnamdiObasi/status/1350469369260859394)”
+> "The problem of Africa in general and Uganda in particular is not the people, but leaders who want to [overstay in power](https://www.economist.com/middle-east-and-africa/2013/10/12/a-leader-who-cannot-bear-to-retire)”
 
 - [Appearance](https://www.youtube.com/watch?v=wPxEYsOUJzc)
 - Aesthetics
