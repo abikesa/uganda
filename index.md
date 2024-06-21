@@ -12,7 +12,6 @@
 
 > *The Kings growne bankrupt like a [broke](https://abikesa.github.io/henryv/)n man*
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
