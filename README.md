@@ -12,7 +12,9 @@
     </div>
 </body>
 ```
-        $$\frac{\partial}{\partial t}\text{Costs} \sim \ \beta_0 + \beta_1 \text{Peasant} + \beta_2 \text{Farmer} + \beta_3 \text{Manufacturer} + \beta_4 \text{Energy} + \beta_5 \text{Transportation} + \epsilon_i$$
+
+
+  $$\frac{\partial}{\partial t}\text{Costs} \sim \ \beta_0 + \beta_1 \text{Peasant} + \beta_2 \text{Farmer} + \beta_3 \text{Manufacturer} + \beta_4 \text{Energy} + \beta_5 \text{Transportation} + \epsilon_i$$
         
 [Britain](https://www.economist.com/britain/2024/05/01/jeremy-clarkson-patron-saint-of-the-great-british-bore) | Bagehot     
 Jeremy Clarkson, patron saint of the Great British bore    
