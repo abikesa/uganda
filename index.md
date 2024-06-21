@@ -12,8 +12,9 @@
 
 > *The Kings growne bankrupt like a [broke](https://abikesa.github.io/henryv/)n man*
 
-<iframe src="https://www.youtube.com/embed/585IMBb14Kg&t=1s" width="100%" height="600px" style="borders:none;"></iframe>
+<iframe src="https://www.youtube.com/embed/585IMBb14Kg&t=1s" width="100%" height="600px" style="border:none;"></iframe>
 
+ https://www.youtube.com/watch?v=585IMBb14Kg&t=1s
  
                                        1. Hunter-gatherer
                                                          \ 
