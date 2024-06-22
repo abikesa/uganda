@@ -27,12 +27,14 @@
             height: 600px;
             border: none;
         }
-    </style>
-</head>
+    </style> 
+</head> 
 <body>
     <div class="video-container">
         <iframe src="https://www.youtube.com/embed/585IMBb14Kg?start=1"></iframe>
         <iframe src="https://www.youtube.com/embed/GdU0KV2QFi0"></iframe>
+        <iframe src="https://www.youtube.com/embed/ToGCVsI1Vmc"></iframe>
+        <iframe src="https://www.youtube.com/embed/huWdEYcN6gA"></iframe>
     </div>
 </body>
 </html>
