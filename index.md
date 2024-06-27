@@ -75,10 +75,8 @@ He who speaks for the bore speaks for Britain
 
 > "The problem of Africa in general and Uganda in particular is not the people, but leaders who want to [overstay in power](https://www.economist.com/middle-east-and-africa/2013/10/12/a-leader-who-cannot-bear-to-retire)”
 
-- [Appearance](https://www.youtube.com/watch?v=wPxEYsOUJzc)
-- Aesthetics
 - Africa
    - Producing what it doesn't consume
       - Coffee 
    - Consuming what it doesn't produce
-      - Cars 
+      - [Cars](https://www.nytimes.com/2024/06/26/business/kenya-tax-protests-debt.html) 
