@@ -65,5 +65,5 @@ sphinx:
     bibtex_reference_order: 'citation' 
     bibtex_default_style: 'unsrt' # 'plain' 
     bibtex_reference_style: 'super' # 'label' # 'author_year' (this worked)
-    bibtex_cite_style: 'super' #'numeric' (for diff. jb version)
+    bibtex_cite_style: 'numeric' # 'super' #'numeric' (for diff. jb version)
     bibtex_footbibliography_header: ''
