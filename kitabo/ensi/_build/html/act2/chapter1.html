@@ -157,8 +157,8 @@
       
     
     
-    <img src="../_static/antiquarian.jpeg" class="logo__image only-light" alt="Uganda - Home"/>
-    <script>document.write(`<img src="../_static/antiquarian.jpeg" class="logo__image only-dark" alt="Uganda - Home"/>`);</script>
+    <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1967/7325607/3b5b29118600/nihms-1542548-f0001.jpg" class="logo__image only-light" alt="Uganda - Home"/>
+    <script>document.write(`<img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1967/7325607/3b5b29118600/nihms-1542548-f0001.jpg" class="logo__image only-dark" alt="Uganda - Home"/>`);</script>
   
   
 </a></div>
@@ -494,10 +494,21 @@ document.write(`
 <span class="c1"># Define edges to be highlighted in black</span>
 <span class="k">def</span> <span class="nf">define_black_edges</span><span class="p">():</span>
     <span class="k">return</span> <span class="p">{</span>
-        <span class="p">(</span><span class="s1">&#39;PRR &amp; ILCs, 20%&#39;</span><span class="p">,</span> <span class="s1">&#39;CD8+, 50%&#39;</span><span class="p">):</span> <span class="s1">&#39;20/80&#39;</span><span class="p">,</span>
-        <span class="p">(</span><span class="s1">&#39;PRR &amp; ILCs, 20%&#39;</span><span class="p">,</span> <span class="s1">&#39;CD4+&#39;</span><span class="p">):</span> <span class="s1">&#39;80/20&#39;</span><span class="p">,</span>
-        <span class="p">(</span><span class="s1">&#39;CD4+&#39;</span><span class="p">,</span> <span class="s1">&#39;TNF-α, IL-6, IFN-γ&#39;</span><span class="p">):</span> <span class="s1">&#39;5/95&#39;</span><span class="p">,</span>
-        <span class="p">(</span><span class="s1">&#39;CD8+, 50%&#39;</span><span class="p">,</span> <span class="s1">&#39;TNF-α, IL-6, IFN-γ&#39;</span><span class="p">):</span> <span class="s1">&#39;49/51&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;TNF-α, IL-6, IFN-γ&#39;</span><span class="p">,</span> <span class="s1">&#39;Complement System&#39;</span><span class="p">):</span> <span class="s1">&#39;80/20&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;TNF-α, IL-6, IFN-γ&#39;</span><span class="p">,</span> <span class="s1">&#39;Platelet System&#39;</span><span class="p">):</span> <span class="s1">&#39;85/15&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;TNF-α, IL-6, IFN-γ&#39;</span><span class="p">,</span> <span class="s1">&#39;Granulocyte System&#39;</span><span class="p">):</span> <span class="s1">&#39;90/10&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;TNF-α, IL-6, IFN-γ&#39;</span><span class="p">,</span> <span class="s1">&#39;Innate Lymphoid Cells, 5%&#39;</span><span class="p">):</span> <span class="s1">&#39;95/5&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;TNF-α, IL-6, IFN-γ&#39;</span><span class="p">,</span> <span class="s1">&#39;Adaptive Lymphoid Cells&#39;</span><span class="p">):</span> <span class="s1">&#39;99/1&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;PD-1 &amp; CTLA-4&#39;</span><span class="p">,</span> <span class="s1">&#39;Complement System&#39;</span><span class="p">):</span> <span class="s1">&#39;1/9&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;PD-1 &amp; CTLA-4&#39;</span><span class="p">,</span> <span class="s1">&#39;Platelet System&#39;</span><span class="p">):</span> <span class="s1">&#39;1/8&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;PD-1 &amp; CTLA-4&#39;</span><span class="p">,</span> <span class="s1">&#39;Granulocyte System&#39;</span><span class="p">):</span> <span class="s1">&#39;1/7&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;PD-1 &amp; CTLA-4&#39;</span><span class="p">,</span> <span class="s1">&#39;Innate Lymphoid Cells, 5%&#39;</span><span class="p">):</span> <span class="s1">&#39;1/6&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;PD-1 &amp; CTLA-4&#39;</span><span class="p">,</span> <span class="s1">&#39;Adaptive Lymphoid Cells&#39;</span><span class="p">):</span> <span class="s1">&#39;1/5&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;Tregs, IL-10, TGF-β, 20%&#39;</span><span class="p">,</span> <span class="s1">&#39;Complement System&#39;</span><span class="p">):</span> <span class="s1">&#39;1/99&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;Tregs, IL-10, TGF-β, 20%&#39;</span><span class="p">,</span> <span class="s1">&#39;Platelet System&#39;</span><span class="p">):</span> <span class="s1">&#39;5/95&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;Tregs, IL-10, TGF-β, 20%&#39;</span><span class="p">,</span> <span class="s1">&#39;Granulocyte System&#39;</span><span class="p">):</span> <span class="s1">&#39;10/90&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;Tregs, IL-10, TGF-β, 20%&#39;</span><span class="p">,</span> <span class="s1">&#39;Innate Lymphoid Cells, 5%&#39;</span><span class="p">):</span> <span class="s1">&#39;15/85&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;Tregs, IL-10, TGF-β, 20%&#39;</span><span class="p">,</span> <span class="s1">&#39;Adaptive Lymphoid Cells&#39;</span><span class="p">):</span> <span class="s1">&#39;20/80&#39;</span>
     <span class="p">}</span>
 
 <span class="c1"># Calculate node positions</span>
@@ -551,7 +562,7 @@ document.write(`
         <span class="n">node_size</span><span class="o">=</span><span class="mi">3000</span><span class="p">,</span> <span class="n">font_size</span><span class="o">=</span><span class="mi">9</span><span class="p">,</span> <span class="n">connectionstyle</span><span class="o">=</span><span class="s2">&quot;arc3,rad=0.2&quot;</span>
     <span class="p">)</span>
     <span class="n">nx</span><span class="o">.</span><span class="n">draw_networkx_edge_labels</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">pos</span><span class="p">,</span> <span class="n">edge_labels</span><span class="o">=</span><span class="n">edges_labels</span><span class="p">,</span> <span class="n">font_size</span><span class="o">=</span><span class="mi">8</span><span class="p">)</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s2">&quot;OPRAH™: Bacon, Critical,  TPN&quot;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">18</span><span class="p">)</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s2">&quot;OPRAH™: Cingulo-Insular&quot;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">18</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 
 <span class="c1"># Run the visualization</span>
@@ -561,7 +572,7 @@ document.write(`
 </div>
 </details>
 <div class="cell_output docutils container">
-<img alt="../_images/78755c7917e391093710110e71b19ba1a4c8c4a98bfd0eff2f8f0da4d417d8d9.png" src="../_images/78755c7917e391093710110e71b19ba1a4c8c4a98bfd0eff2f8f0da4d417d8d9.png" />
+<img alt="../_images/27f55c240ca622a1efab5f393d1f7d724a3d6ec2dc4a456dbd2e49909681051e.png" src="../_images/27f55c240ca622a1efab5f393d1f7d724a3d6ec2dc4a456dbd2e49909681051e.png" />
 </div>
 </div>
 <figure class="align-default" id="id3">
