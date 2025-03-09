@@ -32,18 +32,17 @@
      <em>
 <details>
     <summary></summary>
-    <ol start="2">
-        <li>NYU</li>
-        <li>GTPCI</li>
-        <li>Mentor</li>
-        <li>Epi</li>
-        <li>NIA</li>
-        <li value="7">Taxes</li>
+    <ol start="1">
+        <li>Pericentral</li>
+        <li>Dorsal</li>
+        <li>Lateral</li>
+        <li>Medial</li>
+        <li value="5">Cingulo-Insular</li>
         <li><a href="https://www.youtube.com/watch?v=FdD75q6erHw">Kemi</a></li>
     </ol>
 </details>
     </em>
-   <p>--<a href="https://www.foxnews.com/politics/white-house-pulling-gen-milleys-security-detail-clearance-panel-may-face-demotion-retirement.amp"> Fox News</a></p>
+   <p>--<a href="https://en.wikipedia.org/wiki/Lucina_Uddin"> Lucina Uddin</a></p>
 
  </blockquote>
 </details>
