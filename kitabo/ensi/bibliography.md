@@ -38,7 +38,6 @@
         <li>Lateral</li>
         <li>Medial</li>
         <li value="5">Cingulo-Insular</li>
-        <li><a href="https://www.youtube.com/watch?v=FdD75q6erHw">Kemi</a></li>
     </ol>
 </details>
     </em>
