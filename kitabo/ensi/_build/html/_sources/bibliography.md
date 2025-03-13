@@ -1,5 +1,5 @@
 (optimize)=
-# Optimize, 🏇 🧘🏾‍♀️ 🪺 🎶 🛌
+# Optimize, 🏇🧘🏾‍♀️🪺🎶🛌
 
 
 <style>
